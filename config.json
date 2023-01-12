@@ -74,6 +74,11 @@
             "name": "solution_wa.cc",
             "language": "cpp11",
             "type": "WA"
+        },
+        {
+            "name": "solution_crack.py",
+            "language": "",
+            "type": ""
         }
     ],
     "generators": [
