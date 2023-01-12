@@ -48,7 +48,7 @@
         {
             "name": "solution_crack.py",
             "language": "py3",
-            "type": "AC"
+            "type": "AC/MLE"
         },
         {
             "name": "solution_heuristic.cc",
