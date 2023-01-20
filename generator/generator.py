@@ -1,5 +1,5 @@
 import sys
-import random
+ import random
 import hashlib
 
 from random import randint as rnd
