@@ -3,6 +3,8 @@
 #include <vector>
 #include <string>
 
+#include <cstdlib>
+
 #define SUCCESS 0
 #define WRONG_ANSWER 40
 
@@ -31,7 +33,10 @@ int main() {
         }
     };
 
-    for (volatile int i = 0; i > -1; ++i);
+    for (volatile int i = 0; i > -1; ++i) {
+      volatile int* p = (int*)malloc(10101010);
+      p[231313] = 1;
+    }
 
     rn_read(lcpu); rn_tokenizer(lcpu, cpu);
     rn_read(lans); rn_tokenizer(lans, ans);
