@@ -11,9 +11,5 @@ random.seed(hashValue)
 l = int(sys.argv[1])
 r = int(sys.argv[2])
 
-ar = []
-for _ in range(101010):
-  ar.append([123] * 384724)
-
 a, b, c = [rnd(l, r) for _ in range(3)]
 print(a, b, c)
