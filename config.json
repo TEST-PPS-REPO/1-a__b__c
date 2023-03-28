@@ -36,7 +36,7 @@
     ],
     "solutions": [
         {
-            "name": "solution.cc",
+            "name": "solutionc.cc",
             "language": "cpp11",
             "type": "AC"
         },
