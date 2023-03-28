@@ -108,7 +108,7 @@
         },
         {
             "script": "random 1 10",
-            "is_example": false,
+            "is_example": true,
             "only_deploy": false
         },
         {
