@@ -23,10 +23,7 @@
             }
         }
     },
-    "enable_language": [
-        "cpp",
-        "py3"
-    ],
+    "enable_language": [],
     "statements": [
         {
             "name": "statement.md",
