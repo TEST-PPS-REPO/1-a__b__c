@@ -24,7 +24,8 @@
         }
     },
     "enable_language": [
-        "cpp"
+        "cpp",
+        "py3"
     ],
     "statements": [
         {
