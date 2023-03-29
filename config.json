@@ -81,18 +81,18 @@
             "type": "WA"
         }
     },
-    "generators": {
-        "0": {
+    "generators": [
+        {
             "name": "generator.py",
             "language": "py3",
-            "alias": "random"
+            "alias": ""
         },
-        "1": {
+        {
             "name": "generator_manual.py",
-            "language": "py3",
-            "alias": "manual"
+            "language": "",
+            "alias": ""
         }
-    },
+    ],
     "genscript": {
         "0": {
             "script": "manual 1",
