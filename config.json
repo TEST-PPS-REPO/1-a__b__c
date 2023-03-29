@@ -1,6 +1,6 @@
 {
     "problem_title": "a + b + c",
-    "problem_type": "stdio",
+    "problem_type": "custom",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
     "validator": "validator.py",
