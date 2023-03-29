@@ -23,7 +23,9 @@
             }
         }
     },
-    "enable_language": [],
+    "enable_language": [
+        "cpp"
+    ],
     "statements": [
         {
             "name": "statement.md",
