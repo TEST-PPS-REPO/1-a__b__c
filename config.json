@@ -2,7 +2,7 @@
     "problem_title": "a + b + c",
     "problem_type": "stdio",
     "checker": "tcmp.cc",
-    "checker_language": "cpp11",
+    "checker_language": "cpp17",
     "validator": "validator.py",
     "validator_language": "cpp",
     "limits": {
