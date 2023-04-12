@@ -4,7 +4,7 @@
     "checker": "tcmp.cc",
     "checker_language": "cpp17",
     "validator": "validator.py",
-    "validator_language": "cpp",
+    "validator_language": "py3",
     "limits": {
         "time": 300,
         "memory": 128000000,
