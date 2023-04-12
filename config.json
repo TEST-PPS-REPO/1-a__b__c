@@ -9,16 +9,12 @@
         "time": 300,
         "memory": 128000000,
         "factor": {
-            "cpp": {
-                "time": 0,
-                "memory": 0
-            },
             "cpp11": {
                 "time": 1000,
                 "memory": 0
             },
             "py3": {
-                "time": 5000,
+                "time": 1000,
                 "memory": 256000000
             }
         }
