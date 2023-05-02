@@ -10,7 +10,7 @@
         "memory": 128000000,
         "factor": {
             "cpp11": {
-                "time": 1001,
+                "time": 1000,
                 "memory": 0
             }
         }
