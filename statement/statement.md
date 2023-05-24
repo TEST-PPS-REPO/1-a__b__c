@@ -8,6 +8,13 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
 
 $a$ + $b$ + $c$를 출력하는 프로그램을 작성해 주세요.
 
+# table test
+
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
+
 # 입력
 
 a, b, c는 정수입니다.
