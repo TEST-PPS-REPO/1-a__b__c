@@ -15,6 +15,16 @@ $a$ + $b$ + $c$를 출력하는 프로그램을 작성해 주세요.
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
 
+over the block
+
+```
+block
+```
+
+under the block
+
+left of inline block /`inline block`/ right of inline block
+
 # 입력
 
 a, b, c는 정수입니다.
