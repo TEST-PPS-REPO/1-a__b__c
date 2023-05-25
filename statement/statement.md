@@ -21,6 +21,14 @@ over the block
 block
 ```
 
+```c++
+#include <cstdio>
+int main () {
+    puts("asdf");
+    return 0;
+}
+```
+
 under the block
 
 left of inline block /`inline block`/ right of inline block
