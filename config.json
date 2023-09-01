@@ -15,12 +15,7 @@
             }
         }
     },
-    "enable_language": [
-        "c99",
-        "cpp11",
-        "cpp17",
-        "py3"
-    ],
+    "enable_language": [],
     "statements": [
         {
             "name": "statement.md",
