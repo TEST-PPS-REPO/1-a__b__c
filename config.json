@@ -9,17 +9,18 @@
         "time": 300,
         "memory": 128000000,
         "factor": {
-            "c11": {
-                "time": 0,
-                "memory": 0
-            },
             "cpp11": {
                 "time": 1000,
                 "memory": 0
             }
         }
     },
-    "enable_language": [],
+    "enable_language": [
+        "c99",
+        "cpp11",
+        "cpp17",
+        "py3"
+    ],
     "statements": [
         {
             "name": "statement.md",
