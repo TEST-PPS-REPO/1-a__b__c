@@ -9,12 +9,12 @@
         "time": 300,
         "memory": 128000000,
         "factor": {
-            "cpp11": {
-                "time": 1000,
-                "memory": 0
-            },
             "c11": {
                 "time": 0,
+                "memory": 0
+            },
+            "cpp11": {
+                "time": 1000,
                 "memory": 0
             }
         }
