@@ -1,5 +1,5 @@
 {
-    "problem_tite": "fdsa",
+    "problem_title": "fdsa",
     "problem_type": "stdio",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
