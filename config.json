@@ -2,7 +2,7 @@
     "problem_title": "fdsa",
     "problem_type": "stdio",
     "checker": "tcmp.cc",
-    "checker_language": "",
+    "checker_language": "java8",
     "validator": "validator.py",
     "validator_language": "py3",
     "limits": {
