@@ -3,7 +3,7 @@
     "problem_type": "stdio",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
-    "validator": "",
+    "validator": "validator.py",
     "validator_language": "",
     "limits": {
         "time": 5000,
