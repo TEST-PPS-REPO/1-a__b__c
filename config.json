@@ -56,7 +56,7 @@
         },
         {
             "name": "solution_heuristic.cc",
-            "language": "cpp11",
+            "language": "",
             "type": "AC/WA"
         },
         {
