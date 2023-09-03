@@ -99,7 +99,7 @@
     ],
     "genscript": [
         {
-            "script": "manual 1",
+            "script": "manuals 1",
             "description": "예제 1번입니다. invocate할떄는 생성하지 않습니다.",
             "is_example": true,
             "only_deploy": true
