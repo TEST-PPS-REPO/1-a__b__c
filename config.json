@@ -89,7 +89,7 @@
         {
             "name": "generator.py",
             "language": "py3",
-            "alias": "random"
+            "alias": "random-_"
         },
         {
             "name": "generator_manual.py",
