@@ -9,20 +9,20 @@
         "time": 5000,
         "memory": 128000000,
         "factor": {
-            "java8": {
-                "time": 0,
-                "memory": 0
-            },
             "c99": {
-                "time": 0,
-                "memory": 0
-            },
-            "py3": {
                 "time": 0,
                 "memory": 0
             },
             "cpp11": {
                 "time": 1000,
+                "memory": 0
+            },
+            "java8": {
+                "time": 0,
+                "memory": 0
+            },
+            "py3": {
+                "time": 0,
                 "memory": 0
             }
         }
@@ -116,17 +116,20 @@
         },
         {
             "script": "random 1 10",
+            "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
             "script": "random 1 10 random_seed",
+            "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
             "script": "random 1 10 random_seed _____",
             "description": "",
+            "is_example": false,
             "only_deploy": false
         },
         {
@@ -152,5 +155,5 @@
         "config": 1,
         "repository": 1
     },
-    "loading": false
+    "deploy_uuid": "0858c322-e038-4889-af8f-1d702632210a"
 }
