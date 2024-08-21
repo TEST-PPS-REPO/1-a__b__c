@@ -119,7 +119,7 @@
         },
         {
             "script": "random 1 10",
-            "subtask_group": "",
+            "subtask_group": "subtask_name",
             "description": "",
             "is_example": false,
             "only_deploy": false
