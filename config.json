@@ -5,7 +5,7 @@
     "checker_language": "cpp11",
     "validator": "validator.py",
     "validator_language": "py3",
-    "subtask": 1,
+    "subtask": true,
     "limits": {
         "time": 5000,
         "memory": 128000000,
