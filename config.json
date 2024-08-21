@@ -133,7 +133,7 @@
         },
         {
             "script": "random 1 10 random_seed _____",
-            "subtask_group": "",
+            "subtask_group": "subtask_name",
             "description": "",
             "is_example": false,
             "only_deploy": false
