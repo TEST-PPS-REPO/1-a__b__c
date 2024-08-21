@@ -157,11 +157,5 @@
         "repository": 1
     },
     "deploy_uuid": "ada5393c-2461-4370-8fbd-dc11abda6684",
-    "subtask_group": [
-        {
-            "name": "subtask_name",
-            "description": "",
-            "score": 100
-        }
-    ]
+    "subtask_group": []
 }
