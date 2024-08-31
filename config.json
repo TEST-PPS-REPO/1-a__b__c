@@ -102,6 +102,18 @@
             "alias": "manual"
         }
     ],
+    "subtask_group": [
+        {
+            "name": "subtask_name",
+            "description": "",
+            "score": 100
+        },
+        {
+            "name": "subtask_name2",
+            "description": "",
+            "score": 100
+        }
+    ],
     "genscript": [
         {
             "script": "manual 1",
@@ -164,17 +176,5 @@
         "config": 1,
         "repository": 1
     },
-    "deploy_uuid": "ada5393c-2461-4370-8fbd-dc11abda6684",
-    "subtask_group": [
-        {
-            "name": "subtask_name",
-            "description": "",
-            "score": 100
-        },
-        {
-            "name": "subtask_name2",
-            "description": "",
-            "score": 100
-        }
-    ]
+    "deploy_uuid": "c58fe263-06b6-4891-8adc-94d4038e4c1a"
 }
